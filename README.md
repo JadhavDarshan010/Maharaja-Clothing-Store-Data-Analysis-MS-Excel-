@@ -47,5 +47,7 @@ To transform raw data into meaningful insights that improve decision-making, sal
 
 ## Conclusion & Next Plan:
 1. Focus More On Woman From The Age Group 20- 40 (Teenagers And Adults) As They are Contrinuting ~ 55-60 %  Of  Total Sales .
+
 2. Attract Them By Givng Offers Like , EMI Payment , Buy 1 Get 1 Free, Buy Now Pay Later Etc .
+
 3. Focus More On Online Platforms Like Amazon, Myntra And Filpkart As They Are Contributing ~ 65 % Of The Total Anuual Sales. Spnding Money On Online Ads , Infulencers For Paid Advertisement Will Worth Of Money.
