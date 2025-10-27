@@ -1,40 +1,44 @@
 # Maharaja Clothing Store Data Analytics Project (Interactive Dashboard creation using MS Excel)
 ## Project Objective
-To transform The Raw data into meaningful insights that improve decision-making, Sales Performance, and operational efficiency And Helps The Store Owner To  Understand Their Customer Behavours And Make Future Decisions.
+To transform raw data into meaningful insights that improve decision-making, sales performance, and operational efficiency, and help the store owner understand their customers’ behavior and make better future decisions.
 
 ## Dataset used
 - <a href="https://github.com/JadhavDarshan010/Maharaja-Clothing-Store-Data-Analysis-MS-Excel-/blob/main/Maharaja%20Store%20Data%20Analysis%20(Recovered).xlsx">Click Here To View The Dataset And All Other Processes</a>
 
 
 ## Questions / Querrires -
-1 .Compare The Sales And Order Using Single Chart.
+1. Compare the Sales and Orders using a single chart.
 
-2. Which Month Got Highest Sales And Orders ?
+2. Which month got the highest Sales and Orders?
 
-3. Who Purched More - Men Or Woman?
+3. Who purchased more – Men or Women?
 
-4. What Are Different Order status In 2025 ?
+4. What are the different Order Statuses in 2025?
 
-5.  List top 10 States Contibuting To The Total Sales.
+5. List the Top 10 States contributing to the total Sales.
 
-6. relatonship Between Age And Gender Based On Number.(Gendewise Tell Them Which Age Group Has Genrated More Sales
+6. What is the relationship between Age and Gender based on numbers? (Gender-wise, mention which age group generated more sales.)
 
-7. Which Channel / platform Is Highly Contributing To The Total Sales ?
+7. Which Channel / Platform is highly contributing to the total Sales?
 
-8 . What Are Some Of The high Selling Categories ?
+8. What are some of the high-selling Categories?
 
 
 - Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Maharaja-Clothing-Store-Data-Analysis-MS-Excel-/blob/main/Maharaja%20Store%20Dashboard.png">View Dashboard </a>
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Verified data for any missing values or anomalies and fixed them.
+
+- Ensured data consistency and cleanliness with respect to data type, format, and values.
+
+- Created Pivot Tables according to the questions listed above.
+
+- Combined all Pivot Tables into one interactive dashboard and applied Slicers to make it dynamic.
 
 ## Dashboard
 1.
 ![Screenshot (495)](https://github.com/JadhavDarshan010/Maharaja-Clothing-Store-Data-Analysis-MS-Excel-/blob/main/Maharaja%20Store%20Dashboard.png)
+
 
 ## Project Insight - 
 
